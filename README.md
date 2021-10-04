@@ -1,5 +1,5 @@
 # Volunteer Manager
-
+*Projekt wykonany w ramach przedmiotu **Wstęp do programowania aplikacji mobilnych**.*
 
 Zazwyczaj na festiwalach dany koordynator odpowiedzialny jest za dany obszar działania np. za parkingi
 czy za pomoc prelegentom, mając do dyspozycji ludzi pracujących w wolontariacie.
@@ -13,6 +13,6 @@ W celu usprawnienia działań na poziomie koordynatorów aplikacja będzie zawie
 Technologia: Android (Kotlin), Firebase,  API pogodowe, API Google Maps.
 
 ![](d.png)</br>
-*Panel na wigacyjny aplikacji.*</br></br>
+*Panel nawigacyjny aplikacji.*</br></br>
 ![](gps.png)</br>
 *Widok mapy z położeniami koordynatorów.*
